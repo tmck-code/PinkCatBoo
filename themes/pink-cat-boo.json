@@ -3,66 +3,66 @@
 	"auth": "Fiona Fan",
 	"type": "dark",
 	"colors": {
-		"focusBorder": "--geraldine: #fe7c8e;",
-		"activityBar.background": "--ebony-clay: #202330;",
-		"activityBar.foreground": "--pig-pink: #fde3e8;",
-		"activityBarBadge.background": "--geraldine: #fe7c8e;",
-		"button.background": "--geraldine: #fe7c8e;",
-		"dropdown.background": "--ebony-clay: #202330;",
-		"editor.background": "--ebony-clay: #202330;",
-		"editor.foreground": "--lavender-blush: #FFF0F5;",
-		"editor.selectionBackground": "--livid-brown: #472541;",
-		"editor.selectionHighlightBackground": "--abbey: #575b61;",
-		"editor.lineHighlightBackground": "--livid-brown: #472541;",
-		"editor.wordHighlightBackground": "--victoria: #4747a1;",
-		"editor.wordHighlightStrongBackground": "--blue-marguerite: #6767ce;",
-		"editorBracketMatch.border": "--raw-sienna: #d0963a;",
-		"editorCursor.foreground": "--lavender-blush: #ffedf0;",
-		"editorError.foreground": "--hot-pink: #ff62a5;",
-		"editorWarning.foreground": "--shamrock: #3bc089;",
-		"editorGroup.background": "--cod-gray: #1e1e1e;",
-		"editorGroupHeader.tabsBackground": "--ebony-clay: #2d2f42;",
-		"extensionButton.prominentForeground": "--white: #ffffff;",
-		"extensionButton.prominentBackground": "--geraldine: #fe7c8e;",
-		"extensionButton.prominentHoverBackground": "--geraldine: #fe7c8e;",
-		"input.background": "--ebony-clay: #202330;",
-		"inputOption.activeBorder": "--geraldine: #fe7c8e;",
-		"list.activeSelectionBackground": "--raw-sienna: #d0963a;",
-		"list.focusBackground": "--dove-gray: #707070;",
-		"list.inactiveSelectionBackground": "--yellow-metal: #765d36;",
-		"list.hoverBackground": "--comet: #565970;",
-		"list.highlightForeground": "--white: #FFFFFF;",
-		"list.errorForeground": "--hot-pink: #ff62a5;",
-		"menu.separatorBackground": "--mandys-pink: #f3b4bf;",
-		"notificationCenter.border": "--mandys-pink: #f3b4bf;",
-		"notificationCenterHeader.background": "--mandys-pink: #f3b4bf;",
-		"notificationCenterHeader.foreground": "--white: #ffffff;",
-		"notificationLink.foreground": "--geraldine: #fe7c8e;",
-		"notifications.background" : "--salt-box: #6d5d72;",
-		"notifications.foreground": "--mandys-pink: #f3b4bf;",
-		"peekView.border": "--raw-sienna: #d0963a;",
-		"panelTitle.activeForeground": "--white: #ffffff;",
-		"scrollbarSlider.background": "--mandys-pink: #f3b4bf;",
-		"scrollbarSlider.hoverBackground": "--mandys-pink: #f3b4bf;",
-		"scrollbarSlider.activeBackground": "--kobi: #e9a6b2;",
-		"statusBar.background": "--mandys-pink: #f3b4bf;",
-		"statusBar.debuggingBackground": "--mandys-pink: #f3b4bf;",
-		"statusBar.noFolderBackground": "--mandys-pink: #f3b4bf;",
-		"sideBar.background": "--ebony-clay: #2d2f42;",
-		"sideBarSectionHeader.background": "--ebony-clay: #202330;",
-		"tab.inactiveBackground": "--ebony-clay: #2d2f42;",
-		"tab.border": "--manatee: #9498a1;",
-		"tab.inactiveForeground": "--manatee: #9498a1;",
-		"tab.activeForeground": "--geraldine: #fe7c8e;",
-		"tab.activeBorderTop": "--geraldine: #fe7c8e;",
-		"terminal.ansiWhite": "--white: #ffffff;",
-		"titleBar.activeBackground": "--ebony-clay: #2d2f42;",
+		"focusBorder":                              "--geraldine:       #fe7c8e;",
+		"activityBar.background":                   "--ebony-clay:      #202330;",
+		"activityBar.foreground":                   "--pig-pink:        #fde3e8;",
+		"activityBarBadge.background":              "--geraldine:       #fe7c8e;",
+		"button.background":                        "--geraldine:       #fe7c8e;",
+		"dropdown.background":                      "--ebony-clay:      #202330;",
+		"editor.background":                        "--ebony-clay:      #202330;",
+		"editor.foreground":                        "--lavender-blush:  #FFF0F5;",
+		"editor.selectionBackground":               "--livid-brown:     #472541;",
+		"editor.selectionHighlightBackground":      "--abbey:           #575b61;",
+		"editor.lineHighlightBackground":           "--livid-brown:     #472541;",
+		"editor.wordHighlightBackground":           "--victoria:        #4747a1;",
+		"editor.wordHighlightStrongBackground":     "--blue-marguerite: #6767ce;",
+		"editorBracketMatch.border":                "--raw-sienna:      #d0963a;",
+		"editorCursor.foreground":                  "--lavender-blush:  #ffedf0;",
+		"editorError.foreground":                   "--hot-pink:        #ff62a5;",
+		"editorWarning.foreground":                 "--shamrock:        #3bc089;",
+		"editorGroup.background":                   "--cod-gray:        #1e1e1e;",
+		"editorGroupHeader.tabsBackground":         "--ebony-clay:      #2d2f42;",
+		"extensionButton.prominentForeground":      "--white:           #ffffff;",
+		"extensionButton.prominentBackground":      "--geraldine:       #fe7c8e;",
+		"extensionButton.prominentHoverBackground": "--geraldine:       #fe7c8e;",
+		"input.background":                         "--ebony-clay:      #202330;",
+		"inputOption.activeBorder":                 "--geraldine:       #fe7c8e;",
+		"list.activeSelectionBackground":           "--raw-sienna:      #d0963a;",
+		"list.focusBackground":                     "--dove-gray:       #707070;",
+		"list.inactiveSelectionBackground":         "--yellow-metal:    #765d36;",
+		"list.hoverBackground":                     "--comet:           #565970;",
+		"list.highlightForeground":                 "--white:           #FFFFFF;",
+		"list.errorForeground":                     "--hot-pink:        #ff62a5;",
+		"menu.separatorBackground":                 "--mandys-pink:     #f3b4bf;",
+		"notificationCenter.border":                "--mandys-pink:     #f3b4bf;",
+		"notificationCenterHeader.background":      "--mandys-pink:     #f3b4bf;",
+		"notificationCenterHeader.foreground":      "--white:           #ffffff;",
+		"notificationLink.foreground":              "--geraldine:       #fe7c8e;",
+		"notifications.background" :                "--salt-box:        #6d5d72;",
+		"notifications.foreground":                 "--mandys-pink:     #f3b4bf;",
+		"peekView.border":                          "--raw-sienna:      #d0963a;",
+		"panelTitle.activeForeground":              "--white:           #ffffff;",
+		"scrollbarSlider.background":               "--mandys-pink:     #f3b4bf;",
+		"scrollbarSlider.hoverBackground":          "--mandys-pink:     #f3b4bf;",
+		"scrollbarSlider.activeBackground":         "--kobi:            #e9a6b2;",
+		"statusBar.background":                     "--mandys-pink:     #f3b4bf;",
+		"statusBar.debuggingBackground":            "--mandys-pink:     #f3b4bf;",
+		"statusBar.noFolderBackground":             "--mandys-pink:     #f3b4bf;",
+		"sideBar.background":                       "--ebony-clay:      #2d2f42;",
+		"sideBarSectionHeader.background":          "--ebony-clay:      #202330;",
+		"tab.inactiveBackground":                   "--ebony-clay:      #2d2f42;",
+		"tab.border":                               "--manatee:         #9498a1;",
+		"tab.inactiveForeground":                   "--manatee:         #9498a1;",
+		"tab.activeForeground":                     "--geraldine:       #fe7c8e;",
+		"tab.activeBorderTop":                      "--geraldine:       #fe7c8e;",
+		"terminal.ansiWhite":                       "--white:           #ffffff;",
+		"titleBar.activeBackground":                                    "--ebony-clay: #2d2f42;"
 	},
 	"tokenColors": [
 		{
 			"settings": {
 				"background": "--ebony-clay: #202330;",
-				"foreground": "--lavender-blush: #FFF0F5;",
+				"foreground": "--lavender-blush: #FFF0F5;"
 			}
 		},
 		{
@@ -79,7 +79,7 @@
 			],
 			"settings": {
 				"background": "--cod-gray: #1e1e1e;",
-				"foreground": "--pumice: #C5C8C6;",
+				"foreground": "--pumice: #C5C8C6;"
 			}
 		},
 		{
@@ -122,7 +122,7 @@
 			"scope": "storage.type",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "--moon-raker: #DCBFF2;",
+				"foreground": "--moon-raker: #DCBFF2;"
 			}
 		},
 		{
@@ -130,7 +130,7 @@
 			"scope": "entity.name.class",
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "--illusion: #F5A6C6;",
+				"foreground": "--illusion: #F5A6C6;"
 			}
 		},
 		{
@@ -151,7 +151,7 @@
 			"scope": "variable.parameter",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "--celery: #9CD162;",
+				"foreground": "--celery: #9CD162;"
 			}
 		},
 		{
@@ -164,7 +164,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "--cornflower: #A2C2EB;",
+				"foreground": "--cornflower: #A2C2EB;"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"scope": "support.type, support.class",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "--cornflower: #94AFE8;",
+				"foreground": "--cornflower: #94AFE8;"
 			}
 		},
 		{
@@ -281,7 +281,7 @@
 			"settings": {
 				"background": "--pirate-gold: #b58900;",
 				"fontStyle": "italic",
-				"foreground": "--willow-brook: #E0EDDD;",
+				"foreground": "--willow-brook: #E0EDDD;"
 			}
 		},
 		{
@@ -289,7 +289,7 @@
 			"scope": "markup.deleted",
 			"settings": {
 				"background": "--parchment: #f0e8cf;",
-				"foreground": "--punch: #dc322f;",
+				"foreground": "--punch: #dc322f;"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"scope": "markup.changed",
 			"settings": {
 				"background": "--parchment: #f0e8cf;",
-				"foreground": "--cerise-red: #e53c70;",
+				"foreground": "--cerise-red: #e53c70;"
 			}
 		},
 		{
@@ -305,7 +305,7 @@
 			"scope": "markup.inserted",
 			"settings": {
 				"background": "--parchment: #f0e8cf;",
-				"foreground": "--elm: #219186;",
+				"foreground": "--elm: #219186;"
 			}
 		},
 		{

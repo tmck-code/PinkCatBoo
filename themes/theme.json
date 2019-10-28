@@ -56,13 +56,13 @@
 		"tab.activeForeground": "--geraldine: #fe7c8e;",
 		"tab.activeBorderTop": "--geraldine: #fe7c8e;",
 		"terminal.ansiWhite": "--white: #ffffff;",
-		"titleBar.activeBackground": "--ebony-clay: #2d2f42;",
+		"titleBar.activeBackground": "--ebony-clay: #2d2f42;"
 	},
 	"tokenColors": [
 		{
 			"settings": {
 				"background": "--ebony-clay: #202330;",
-				"foreground": "--lavender-blush: #FFF0F5;",
+				"foreground": "--lavender-blush: #FFF0F5;"
 			}
 		},
 		{
