@@ -12,8 +12,15 @@ let g:colors_name = "Pink_Cat_Boo"
 syn match   pythonFunction    "\%([^[:cntrl:][:space:][:punct:][:digit:]]\|_\)\%([^[:cntrl:][:punct:][:space:]]\|_\)*" display contained
 syn match   pythonDecorator   "\%(^[\@[:cntrl:][:space:][:punct:][:digit:]]\|_\)\%([^[:cntrl:][:punct:][:space:]]\|_\)*" display contained
 
+let s:is_dark=(&background == 'dark')
+
+if s:is_dark
+  let s:bg="#202330"
+else
+  let s:bg="#cabec2"
+end
+
 " Define reusable colorvariables.
-let s:bg="#202330"
 let s:fg="#fff0f5"
 let s:fg2="#ddd0d5"
 let s:fg3="#cabec2"

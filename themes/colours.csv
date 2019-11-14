@@ -1,0 +1,100 @@
+var|colour_name|colour_hex|bg_colour_name|bg_colour_hex|style
+focusBorder|geraldine|#fe7c8e
+activityBar.background|ebony-clay|#202330
+activityBar.foreground|pig-pink|#fde3e8
+activityBarBadge.background|geraldine|#fe7c8e
+button.background|geraldine|#fe7c8e
+dropdown.background|ebony-clay|#202330
+editor.background|ebony-clay|#202330
+editor.foreground|lavender-blush|#FFF0F5
+editor.selectionBackground|livid-brown|#472541
+editor.selectionHighlightBackground|abbey|#575b61
+editor.lineHighlightBackground|livid-brown|#472541
+editor.wordHighlightBackground|victoria|#4747a1
+editor.wordHighlightStrongBackground|blue|#6767ce
+editorBracketMatch.border|raw-sienna|#d0963a
+editorCursor.foreground|lavender-blush|#ffedf0
+editorError.foreground|hot-pink|#ff62a5
+editorWarning.foreground|shamrock|#3bc089
+editorGroup.background|cod-gray|#1e1e1e
+editorGroupHeader.tabsBackground|ebony-clay|#2d2f42
+extensionButton.prominentForeground|white|#ffffff
+extensionButton.prominentBackground|geraldine|#fe7c8e
+extensionButton.prominentHoverBackground|geraldine|#fe7c8e
+input.background|ebony-clay|#202330
+inputOption.activeBorder|geraldine|#fe7c8e
+list.activeSelectionBackground|raw-sienna|#d0963a
+list.focusBackground|dove-gray|#707070
+list.inactiveSelectionBackground|yellow-metal|#765d36
+list.hoverBackground|comet|#565970
+list.highlightForeground|white|#FFFFFF
+list.errorForeground|hot-pink|#ff62a5
+menu.separatorBackground|mandys-pink|#f3b4bf
+notificationCenter.border|mandys-pink|#f3b4bf
+notificationCenterHeader.background|mandys-pink|#f3b4bf
+notificationCenterHeader.foreground|white|#ffffff
+notificationLink.foreground|geraldine|#fe7c8e
+notifications.background"|salt-box|#6d5d72
+notifications.foreground|mandys-pink|#f3b4bf
+peekView.border|raw-sienna|#d0963a
+panelTitle.activeForeground|white|#ffffff
+scrollbarSlider.background|mandys-pink|#f3b4bf
+scrollbarSlider.hoverBackground|mandys-pink|#f3b4bf
+scrollbarSlider.activeBackground|kobi|#e9a6b2
+statusBar.background|mandys-pink|#f3b4bf
+statusBar.debuggingBackground|mandys-pink|#f3b4bf
+statusBar.noFolderBackground|mandys-pink|#f3b4bf
+sideBar.background|ebony-clay|#2d2f42
+sideBarSectionHeader.background|ebony-clay|#202330
+tab.inactiveBackground|ebony-clay|#2d2f42
+tab.border|manatee|#9498a1
+tab.inactiveForeground|manatee|#9498a1
+tab.activeForeground|geraldine|#fe7c8e
+tab.activeBorderTop|geraldine|#fe7c8e
+terminal.ansiWhite|white|#ffffff
+titleBar.activeBackground|ebony-clay|2d2f42
+GLOBAL|lavender-blush|#FFF0F5|ebony-clay|#202330
+By uonick|pumice|#c5c8c6|shark|#202025
+Comment|xanadu|#6D7A72|
+String|astra|#FAE8B6|
+Number|wild-strawberry|#FF38A2|
+Built-in constant|silver-tree|#58B896|
+User-defined constant|tickle-me-pink|#FF7F9D|
+Keyword|wild-strawberry|#FF4791|
+Storage|sunglow|#FEC831|
+Storage Type|moon-raker|#DCBFF2|||italic
+Class name|illusion|#F5A6C6|||underline
+Inherited class|shamrock|#37e884|||italic underline
+Function name|golden-tainoi|#ffc85b|
+Function argument|celery|#9CD162|||italic
+Tag name|violet-red|#FA508C|
+Library function|cornflower|#A2C2EB|||bold
+Class Variable|sea-pink|#EBA4AC|
+Invalid|white|#FFFFFF|
+Normal Variable|sea-pink|#EBA4AC|
+Function Call Variable|moon-raker|#DCBFF2|
+Tag|lavender-blush|#FFF0F5|
+Tag Name|violet-red|#FA508C|
+Doctype|viking|#73b5d7|
+Tag Inline Source|viking|#73b5d7|
+Tag Attribute|mauve|#E6A1FF|
+Tag Value|hippie-blue|#6089B4|
+Meta Brace|old-gold|#D0B344|
+HTML ID|viking|#73b5d7|
+HTML Tags|lavender-blush|#FFF0F5|
+CSS Library class type|cornflower|#94AFE8|||italic
+Template Definition|raw-sienna|#D08442|
+PHP Single Quote HMTL Fix|"--catskill-white|#e1ecf2|
+PHP Parenthesis HMTL Fix|boulder|#787878|
+PHP Punctuation Embedded|porsche|#ec9a5e|
+SQL|old-gold|#D0B344|
+Markup Quote|wisteria|#9e6dbc|
+Markup Lists|viking|#73b5d7|
+Markup Styling|hippie-blue|#6089B4|
+Markup Inline|rose|#FF0080|
+Markup Headings|old-gold|#D0B344|
+Markup Setext Header|old-gold|#D0B344|
+token.info-token|cornflower-blue|#6796e6|
+token.warn-token|tulip-tree|#e5ac40|
+token.error-token|sunset-orange|#f44747|
+token.debug-token|medium-purple|#b267e6|}
